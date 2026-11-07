@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/huggingface/atif-scan/commit/400cb9d7572bfd8baf11bd1669930fa015836fa0",
       "git:hexsha": "400cb9d7572bfd8baf11bd1669930fa015836fa0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/huggingface/atif-scan/commit/5b90952db7aec11c332b6653759e587109af4815",
